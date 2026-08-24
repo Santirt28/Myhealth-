@@ -41,6 +41,8 @@ header {
   display: flex;
   gap: 32px;
   padding: 48px;
+  background-image: url("assets/background-pattern.png");
+  background-repeat: repeat;
 }
 
 .hero-text {
